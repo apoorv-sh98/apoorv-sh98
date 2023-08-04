@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I am Apoorv Sharma.
+I am a Computer science master's student at University of Rochester, New York.
+
+you can reach me using the following:
+[LinkedIn profile]|[https://www.linkedin.com/in/apoorv-sh98/]
+[email id]|[mailto:apoorv.sh98@gmail.com]
 
 <!--
 **apoorv-sh98/apoorv-sh98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
